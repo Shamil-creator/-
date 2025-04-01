@@ -1,0 +1,4 @@
+Computers in Office 101
+========================================
+ID: 1, Purchase Date: 2023-01-15, Price: 1200.5
+ID: 2, Purchase Date: 2022-07-10, Price: 900
